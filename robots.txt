@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-9iwe4m.utmtools.ru/sitemap.xml
